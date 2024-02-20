@@ -1,5 +1,12 @@
+**Color Scheme:**
+
+- Headings: #333
+- Text: #666
+- Links: #007bff
+- Buttons: #28a745 (green) or #dc3545 (red)
+
 #Concept:
-*Online phonebook web app*
+**#Online phonebook web app**
 ##Note:
 *Search function to be added* 🔭
 
